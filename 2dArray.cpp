@@ -49,6 +49,7 @@ int main() {
         std::cout << std::endl;
     }
 
+    // calls function
     average = averageOfNumbers(a2DArray, rows, columns);
     std::cout << "\nThe average of all the numbers is: " << average
               << std::endl;
